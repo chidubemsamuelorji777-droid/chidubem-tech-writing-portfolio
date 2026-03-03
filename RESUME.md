@@ -1,7 +1,7 @@
 #### Table of content
-[Resume](https://github.com/chidubemsamuelorji777-droid/chidubem-tech-writing-portfolio/edit/main/README.md#resume)
-[]()
-[]()
+[Resume](https://github.com/chidubemsamuelorji777-droid/chidubem-tech-writing-portfolio/edit/main/README.md#resume)  
+[Markdown practice](https://github.com/chidubemsamuelorji777-droid/chidubem-tech-writing-portfolio/blob/main/Markdown-practice.md#markdown-practice)  
+[DDLC template](https://github.com/chidubemsamuelorji777-droid/chidubem-tech-writing-portfolio/blob/main/DDLC.md#ddlc-agile-and-scrum-methodologies)
 
 ## Resume
 
@@ -29,20 +29,24 @@ Proven ability to;
 #### Experience  
 - **Technical writer** (Volunteer): GitLab, Remote (February 2026 - Present)
   - Contributing to technical documentation within the GitLab community.
+
 - **Generalist writer/editor**: Freelance, Remote (October 2020 - Present)  
   - Reduced delivery timelines by 30-50%
   - Ensured that written contents are 100% verifiable using strong research and analytical skills.
   - Balanced SEO tactics, with compliance, and client expectations effectively.
+
 - **Advanced content manager** (Remote): Growth Leads, Malta (2025 - 2026)  
   - Guaranteed 100% client satisfaction by ensuring proper communication amidst speedy delivery.
   - Provided well-optimised images and written drafts for updating iGaming content on multiple pages of gamechampions.com
   - Conducted regular client outreach to present content, review feedback, and discuss strategy.
+
 - **Content manager** (Contract): Ariele Agency, Enugu, Nigeria (March-June, 2025)  
   - Boosted personal turnaround time by 100%, without compromising content quality.
   - Enforced 100% compliance with delicate industry regulations, style guides and other instructions.
   - Reduced general content turnaround time by 20% encouraging speedy delivery.
   - Optimised images and video content on multiple web pages, following technical SEO.
   - Conducted quality analysis to ensure instructions and compliance standards are met.
+
 #### Education and Certifications
 **GitLab university**: [Technical writing fundamentals](https://ti-user-certificates.s3.amazonaws.com/72109ec1-52dd-4663-9df4-754a8a1d0bff/fb60a5e7-50a1-4a80-bfc9-88f385f379e7-chidubem-orji-95e5513f-c77c-4ec9-a583-379ac2b1287e-certificate.pdf)
 
@@ -56,3 +60,5 @@ Proven ability to;
 **University of Nigeria, Enugu Campus**: L.L.B., Law, 2024 
 - Dean's List
 - President, Catholic Students
+
+[Next Page](https://github.com/chidubemsamuelorji777-droid/chidubem-tech-writing-portfolio/blob/main/Markdown-practice.md#markdown-practice)
