@@ -1,7 +1,7 @@
-# Agile and Scrum methodologies
+## DDLC: Agile and scrum methodologies
 This shows my understanding of the SDLC and how to make a DDLC align with it
 
-### Sprint Documentation Plan (Template)
+### Sprint documentation plan (Template)
 
 ##### Table of Contents
 [Sprint Overview](https://github.com/chidubemsamuelorji777-droid/chidubem-tech-writing-portfolio/edit/main/Agile.md#sprint-overview)  
@@ -14,30 +14,30 @@ This shows my understanding of the SDLC and how to make a DDLC align with it
 
 [Definition of Done (DoD) Checklist](https://github.com/chidubemsamuelorji777-droid/chidubem-tech-writing-portfolio/edit/main/Agile.md#definition-of-done-dod-checklist)  
 
-#### Sprint Overview
-1. Sprint Name/Number: [e.g., Sprint 42: "The Login Revamp"]
-2. Date Range: [e.g., March 1 – March 14]
-3. Primary SME (Subject Matter Expert): [The Lead Developer or Product Owner]
+#### Sprint overview
+1. **Sprint name/number**: [e.g., Sprint 42: "The Login Revamp"]
+2. **Date range**: [e.g., March 1 – March 14]
+3. **Primary SME (Subject matter expert)**: [The Lead Developer or Product Owner]
 
-#### User Stories & Doc Impact
+#### User stories & doc impact
 Identify which software tasks require documentation updates. Consider the table below:
 
-| User Story ID | Feature Description | Documentation Impact | Priority |
+| User story ID | Feature description | Documentation impact | priority |
 | ---  | --- | --- | --- |
 | ENG-101 | Add Biometric Login | Update "Security Settings" & "Login" guides. | High |
 | ENG-102 | New API Endpoint: `/user/profile` | Update API Reference & Postman collection. | Medium |
 | ENG-105 | UI Color Change | Screenshot updates only. | Low |
 
-#### The DDLC Workflow (2-Week Sprint)
-##### 1. Analysis & Planning (Days 1–2)
+#### The DDLC workflow (2-Week Sprint)
+##### 1. Analysis & planning (Days 1–2)
   - Goal:
-    - Attend Sprint Planning.
+    - Attend sprint planning.
   - Tasks:
     - Review mockups/Figma files.
     - Define the scope: Is this a new page or a paragraph update?
     - Create "Doc Tasks" in the team's project board (e.g., Jira or Trello).
 
-##### 2. Drafting & Development (Days 3–7)
+##### 2. Drafting & development (Days 3–7)
   - Goal:
     - Write while the developers code.
   - Tasks:
@@ -45,15 +45,15 @@ Identify which software tasks require documentation updates. Consider the table 
     - Interview the developer (SME) for technical nuances.
     - Draft "Placeholder" screenshots if the UI isn't ready.
 
-##### 3. Review & Validation (Days 8–9)
+##### 3. Review & validation (Days 8–9)
   - Goal:
     - Ensure accuracy.
   - Tasks:
-    - Technical Review: Have the developer check for factual errors.
-    - Editorial Review: Peer review for grammar and style.
-    - Doc QA: Test the instructions against the "Staging" environment.
+    - **Technical review**: Have the developer check for factual errors.
+    - **Editorial review**: Peer review for grammar and style.
+    - **Doc QA**: Test the instructions against the "Staging" environment.
 
-##### 4. Finalize & Publish (Day 10)
+##### 4. Finalize & publish (Day 10)
   - Goal:
     - Sync with the Software Release.
   - Tasks: 
@@ -61,11 +61,11 @@ Identify which software tasks require documentation updates. Consider the table 
     - Push docs to the live site/Help Center.
     - Attend the Sprint Review to show off the completed docs.
 
-#### Definition of Done (DoD) Checklist
+#### Definition of done (DoD) checklist
 A story is only "Done" when:
 - Content is technically verified by an engineer.
 - Links and formatting are checked.
 - Screenshots reflect the final UI.
-- The documentation is merged/published.
+- Documentation is merged/published.
 
 ##### N.B: As a Technical Writer, when a developer says, "I'm done with the code," this template helps me show that a feature isn't actually "Done" until the documentation is validated.
