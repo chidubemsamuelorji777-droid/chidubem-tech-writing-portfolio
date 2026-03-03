@@ -60,4 +60,4 @@ Hence, it is important to seek the services of a qualified cybersecurity consult
 
 Go to [previous page](https://github.com/chidubemsamuelorji777-droid/chidubem-tech-writing-portfolio/tree/main#resume)
 
-[Next page](https://github.com/chidubemsamuelorji777-droid/chidubem-tech-writing-portfolio/blob/main/Agile.md#agile-and-scrum-methodologies)
+[Next page](https://github.com/chidubemsamuelorji777-droid/chidubem-tech-writing-portfolio/blob/main/DDLC.md#ddlc-agile-and-scrum-methodologies)
