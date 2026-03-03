@@ -57,3 +57,5 @@ Used for analyzing log data in real time and responding to threats. Examples inc
 
 Organisations may need to use more or less of the tools mentioned here depending on the size of the establishment. 
 Hence, it is important to seek the services of a qualified cybersecurity consultant.
+
+Next page - [Agile and Scrum methodologies](https://github.com/chidubemsamuelorji777-droid/chidubem-tech-writing-portfolio/blob/main/Agile.md#agile-and-scrum-methodologies)
