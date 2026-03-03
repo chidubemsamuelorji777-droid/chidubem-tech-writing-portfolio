@@ -1,5 +1,5 @@
 ## DDLC: Agile and scrum methodologies
-This shows my understanding of the SDLC and how to make a DDLC align with it
+This shows my understanding of how to align DDLC with SDLC.
 
 ### Sprint documentation plan (Template)
 
