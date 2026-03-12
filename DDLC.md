@@ -15,9 +15,9 @@ This shows my understanding of how to align DDLC with SDLC.
 [Definition of Done (DoD) Checklist](https://github.com/chidubemsamuelorji777-droid/chidubem-tech-writing-portfolio/edit/main/Agile.md#definition-of-done-dod-checklist)  
 
 #### Sprint overview
-1. **Sprint name/number**: [e.g., Sprint 42: "The Login Revamp"]
-2. **Date range**: [e.g., March 1 – March 14]
-3. **Primary SME (Subject matter expert)**: [The Lead Developer or Product Owner]
+1. **Sprint name/number**
+2. **Date range**
+3. **Primary SME (Subject matter expert)**
 
 #### User stories & doc impact
 Identify which software tasks require documentation updates. Consider the table below:
